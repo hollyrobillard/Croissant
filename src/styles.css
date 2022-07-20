@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    display: block;
+}
+
+.navLink {
+    padding: 0 10px;
+}
