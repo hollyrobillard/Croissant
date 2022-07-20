@@ -1,11 +1,15 @@
-body {
+.body {
     background-color: antiquewhite;
 }
 
-img {
+.img {
     display: block;
 }
 
 .navLink {
     padding: 0 10px;
+}
+
+h1, p, a {
+    text-align: center;
 }
